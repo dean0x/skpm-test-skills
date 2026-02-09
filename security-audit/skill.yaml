@@ -1,0 +1,7 @@
+name: security-audit
+version: 1.0.0
+description: Security vulnerability detection and OWASP compliance
+provider: skpm-test
+tags: [security, audit]
+provides: [security-review, vulnerability-scan]
+entry: SKILL.md

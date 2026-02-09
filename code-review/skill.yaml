@@ -1,0 +1,7 @@
+name: code-review
+version: 1.0.0
+description: Comprehensive code review patterns and methodology
+provider: skpm-test
+tags: [review, quality]
+provides: [code-review, review-methodology]
+entry: SKILL.md
