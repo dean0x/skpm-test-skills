@@ -7,3 +7,4 @@ Review code changes for correctness, style, and best practices.
 - Edge cases
 - Naming conventions
 - Test coverage
+- Performance implications
